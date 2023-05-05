@@ -1,11 +1,11 @@
 # beta
-##vegiable
+## vegiable
 1. tamato
 2. photato
 ### greaan vegies
--spinesh
--brocali
-##fruits
+- spinesh
+- brocali
+## fruits
 - mango 
 - watermalon
 ### deyfruits
