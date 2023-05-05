@@ -3,8 +3,8 @@
 1. tamato
 2. photato
 ### greaan vegies
-- spinesh
-- brocali
+- *spinesh*
+- **brocali**
 ## fruits
 - mango 
 - watermalon
